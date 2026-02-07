@@ -20,7 +20,7 @@
   <br>
   <a href="https://warp-drive.io">WarpDrive</a> is the lightweight data library for web apps &mdash;
   <br>
-  universal, typed, reactive, and ready to scale.
+  universal, typed, reactive, and ready to scale..
   <br/><br/>
 </p>
 
